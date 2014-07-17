@@ -1,0 +1,43 @@
+# Site settings
+title: Nils Gehlenborg
+email: nils@hms.harvard.edu
+description: "Nils Gehlenborg, PhD. Research Associate at the Center for Biomedical Informatics at Harvard Medical School."
+baseurl: ""
+url: "http://www.gehlenborg.com"
+twitter_username: nils_gehlenborg
+github_username:  ngehlenborg
+
+# Plugins
+gems: ['jekyll/scholar']
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: ./_bibliography
+  bibliography: bibliography.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"

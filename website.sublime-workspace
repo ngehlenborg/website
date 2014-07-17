@@ -1,0 +1,911 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"permalink"
+			],
+			[
+				"facetCounts",
+				"_facetCounts"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"ig",
+				"igvConfig"
+			],
+			[
+				"NodeSet",
+				"NodeSetAdmin"
+			],
+			[
+				"cer",
+				"createCurrentSelection"
+			],
+			[
+				"analy",
+				"analysisUuid"
+			],
+			[
+				"update",
+				"updateFacetSelection"
+			],
+			[
+				"solr_qu",
+				"solr_query_components"
+			],
+			[
+				"curre",
+				"currentSelectionNodeSet"
+			],
+			[
+				"cur",
+				"currentSelectionNodeSet"
+			],
+			[
+				"quer",
+				"queryComponents"
+			],
+			[
+				"cu",
+				"currentSelectionNodeSetName"
+			],
+			[
+				"dataQ",
+				"dataQueryString"
+			],
+			[
+				"node",
+				"nodeRelationship"
+			],
+			[
+				"data_",
+				"data_set_manager"
+			],
+			[
+				"To",
+				"ToManyField"
+			],
+			[
+				"nodeR",
+				"nodeRelationship"
+			],
+			[
+				"NodeRelationshipRes",
+				"nodeRelationshipResource"
+			],
+			[
+				"success",
+				"successCreate"
+			],
+			[
+				"NodeR",
+				"NodeRelationship"
+			],
+			[
+				"nodeRela",
+				"noderelationship"
+			],
+			[
+				"initial",
+				"initializeNodeDropzones"
+			],
+			[
+				"Gal",
+				"isGalaxyUp"
+			],
+			[
+				"externaltool",
+				"externaltoolstatus"
+			],
+			[
+				"isG",
+				"isGalaxyInstanceUp"
+			],
+			[
+				"exter",
+				"externaltoolstatus"
+			],
+			[
+				"extern",
+				"externalToolStatusFactory"
+			],
+			[
+				"externalTool",
+				"externalToolStatusService"
+			],
+			[
+				"lo",
+				"loadNodeRelationshipList"
+			],
+			[
+				"loadNode",
+				"loadNodeRelationshipList"
+			],
+			[
+				"currentNode",
+				"currentNodeRelationship"
+			],
+			[
+				"currentNo",
+				"currentNodeRelationship"
+			],
+			[
+				"create",
+				"createNodeRelationship"
+			],
+			[
+				"is_",
+				"is_implicit"
+			],
+			[
+				"Node",
+				"NodeSet"
+			],
+			[
+				"loadN",
+				"loadNodeAttributes"
+			],
+			[
+				"attr",
+				"attributeOrderList"
+			],
+			[
+				"att",
+				"attributeOrderList"
+			],
+			[
+				"nodeRel",
+				"nodeRelationshipIndex"
+			],
+			[
+				"currentNodePa",
+				"currentNodePairIndex"
+			],
+			[
+				"res",
+				"responseHeaders"
+			],
+			[
+				"cure",
+				"currentNodePair"
+			],
+			[
+				"NodeRelatio",
+				"NodeRelationship"
+			],
+			[
+				"NodeRelations",
+				"NodeRelationshipListCtrl"
+			],
+			[
+				"currentNodeN",
+				"currentNodeRelationship"
+			],
+			[
+				"nodeM",
+				"nodeMappingUuid"
+			],
+			[
+				"xsrf",
+				"xsrfCookieName"
+			],
+			[
+				"http",
+				"httpProvider"
+			],
+			[
+				"drop",
+				"dropzoneIndex"
+			],
+			[
+				"dragging",
+				"draggingNodeUuid"
+			],
+			[
+				"an",
+				"angular-dragdrop"
+			],
+			[
+				"select",
+				"select2"
+			],
+			[
+				"a",
+				"analyze"
+			],
+			[
+				"fon",
+				"font-awesome-ie7"
+			],
+			[
+				"sele",
+				"select2"
+			],
+			[
+				"currentSele",
+				"currentSelectionNodeSetId"
+			],
+			[
+				"DAT",
+				"DATA_SET_UI_MODE_ANALYZE"
+			],
+			[
+				"c",
+				"Change"
+			],
+			[
+				"route",
+				"routeProvider"
+			],
+			[
+				"DA",
+				"DATA_SET_UI_MODE_VISUALIZE"
+			],
+			[
+				"dat",
+				"currentDataSetUiMode"
+			],
+			[
+				"DATA",
+				"DATA_SET_UI_MODE_BROWSE"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"t",
+				"tipsy"
+			],
+			[
+				"consol",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 161.0,
+		"selected_items":
+		[
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git qcc",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git addc",
+				"Git: Add Current File"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git qccf",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"git qc",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"git q",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"gqc",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"git puhs",
+				"Git: Push"
+			],
+			[
+				"git stats",
+				"Git: Status"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"latex com",
+				"LaTeXing: New Command for Current Word"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"packet re",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTLL",
+				"Package Control: Install Package"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git status ",
+				"Git: Status"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git adfd",
+				"Git: Add Current File"
+			],
+			[
+				"git add c",
+				"Git: Add Current File"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add Current File"
+			],
+			[
+				"git stage",
+				"Set Syntax: SublimeGit Tag Message"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"git checkout",
+				"Git: Checkout"
+			],
+			[
+				"git ch",
+				"Git: Checkout"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Checkout"
+			],
+			[
+				"git che",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"git s",
+				"Git: Stash"
+			],
+			[
+				"package i",
+				"Package Control: Install Package"
+			],
+			[
+				"git p",
+				"Git: Help"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 335.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"a",
+			"a = 1",
+			"help",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nils/Projects/website/_includes/header.html",
+		"/Users/nils/Projects/website/_layouts/project.html",
+		"/Users/nils/Projects/website/_includes/head.html",
+		"/Users/nils/Projects/website/_projects/stratomex.md",
+		"/Users/nils/Projects/website/_projects/aex.md",
+		"/Users/nils/Projects/website/css/main.css",
+		"/Users/nils/Projects/website/feed.xml",
+		"/Users/nils/Projects/website/about.md",
+		"/Users/nils/Projects/website/_config.yml",
+		"/Users/nils/Projects/website/research.md",
+		"/Users/nils/Projects/website/contact.md",
+		"/Users/nils/Projects/website/_projects/rex.md",
+		"/Users/nils/Projects/website/_bibliography/bibliography.bib",
+		"/Users/nils/Projects/website/publications.md",
+		"/Users/nils/Projects/website/bibliography.bib",
+		"/Users/nils/Projects/website/_site/publications/index.html",
+		"/Users/nils/Projects/website/presentations.md",
+		"/Users/nils/Projects/website/_layouts/default.html",
+		"/Users/nils/Projects/website/_layouts/page.html",
+		"/Users/nils/Projects/website/index.html",
+		"/Users/nils/Projects/website/about/index.html",
+		"/Users/nils/Projects/website/images/nils_gehlenborg_march2011.png",
+		"/Users/nils/Projects/website/_posts/2014-07-02-welcome-to-jekyll.markdown",
+		"/Users/nils/Documents/Manuscripts/Papers/paper-2014-upset/supplement.tex",
+		"/Users/nils/Documents/Manuscripts/Papers/paper-2014-upset/upset_supplement.tex",
+		"/Users/nils/Documents/Manuscripts/Papers/paper-2014-upset/supplement/supplement.tex",
+		"/Users/nils/Documents/Manuscripts/Papers/paper-2014-upset/High-throughput sequencing of DNA has become affor",
+		"/Users/nils/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nils/Library/Application Support/Sublime Text 3/Packages/LaTeXing/LaTeXing.sublime-settings",
+		"/Users/nils/Documents/Manuscripts/Papers/paper-2014-upset/upset.tex",
+		"/Users/nils/Documents/Manuscripts/Papers/paper-2014-upset/upset",
+		"/Users/nils/Documents/Manuscripts/Papers/paper-2014-CaleyDomino/.gitignore",
+		"/Users/nils/Documents/Manuscripts/Papers/paper-2014-CaleyDomino/CaleyDomino.tex",
+		"/Users/nils/Projects/refinery-platform/refinery/templates/base.html",
+		"/Users/nils/Downloads/upset_svg_text.svg",
+		"/Users/nils/Projects/refinery-platform/refinery/static/js/refinery/core/data_set_monitor.js",
+		"/Users/nils/Projects/refinery-platform/refinery/static/js/refinery/solr/solr_analysis_view.js",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/partials/data_set_ui_node_mapping.html",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/js/refinery.js",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/bower.json",
+		"/Users/nils/Projects/refinery-platform/refinery/static/styles/less/refinery-style.less",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/partials/diff_attribute_list.tpls.html",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/node_modules/grunt-contrib-less/node_modules/less/node_modules/request/node_modules/node-uuid/component.json",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/js/node_mapping.js",
+		"/Users/nils/Projects/refinery-platform/refinery/static/js/refinery/contents.js",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/js/external_tool_status.js",
+		"/Users/nils/Projects/refinery-platform/refinery/core/api.py",
+		"/Users/nils/Projects/refinery-platform/refinery/data_set_manager/models.py",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/partials/data_set_ui_mode_visualize.html",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/js/igv.js",
+		"/Users/nils/Projects/refinery-platform/refinery/static/js/refinery/core/node_set_manager.js",
+		"/Users/nils/Projects/refinery-platform/refinery/analysis_manager/views.py",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/js/analysis.js",
+		"/Users/nils/Projects/refinery-platform/refinery/refinery.log",
+		"/Users/nils/Projects/refinery-platform/refinery/core/views.py",
+		"/Users/nils/Projects/refinery-platform/refinery/data_set_manager/isa_tab_parser.py",
+		"/Users/nils/Projects/refinery-platform/refinery/static/js/refinery/solr/solr_document_table.js",
+		"/Users/nils/Projects/refinery-platform/refinery/static/styles/less/refinery-style-bootstrap.less",
+		"/Users/nils/Projects/refinery-platform/refinery/GuardianTastypieAuthz.py",
+		"/Users/nils/Projects/refinery-platform/refinery/refinery.log.1",
+		"/Users/nils/Projects/refinery-platform/refinery/analysis_manager/tasks.py",
+		"/Users/nils/Projects/refinery-platform/refinery/core/admin.py",
+		"/Users/nils/Projects/refinery-platform/refinery/templates/analysis_manager/analysis_status.html",
+		"/Users/nils/Projects/refinery-platform/refinery/templates/core/home.html",
+		"/Users/nils/Projects/refinery-platform/refinery/static/js/refinery/analysis_manager/analysis_monitor.js",
+		"/Users/nils/Projects/refinery-platform/refinery/core/urls.py",
+		"/Users/nils/Projects/refinery-platform/refinery/static/js/refinery/solr/solr_facet_view.js",
+		"/Users/nils/Projects/refinery-platform/refinery/static/js/refinery/solr/solr_client.js",
+		"/Users/nils/Projects/refinery-platform/refinery/static/js/refinery/solr/solr_query.js",
+		"/Users/nils/Projects/refinery-platform/refinery/static/js/refinery/data_set_manager/data_set_configurator.js",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/partials/external_tool_status.tpls.html",
+		"/Users/nils/Projects/refinery-platform/refinery/static/js/refinery/solr/solr_response.js",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/partials/confirmation_dialog.tpls.html",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/partials/input_dialog.tpls.html",
+		"/Users/nils/Projects/refinery-platform/refinery/templates/core/data_set.html",
+		"/Users/nils/Projects/refinery-platform/refinery/templates/data_set_manager/import.html",
+		"/Users/nils/Projects/refinery-platform/refinery/data_set_manager/api.py",
+		"/Users/nils/Projects/refinery-platform/refinery/templates/registration/registration_form.html",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/js/services.js",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/js/node_relationship.js",
+		"/Users/nils/Projects/refinery-platform/refinery/static/js/refinery/core/workflow_node_relationship.js",
+		"/Users/nils/Projects/refinery-platform/refinery/supervisord.conf",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/partials/external_tool_status.html",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/Gruntfile.js",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/js/workflows.js",
+		"/Users/nils/Projects/refinery-platform/refinery/analysis_manager/urls.py",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/partials/diff_attribute_list.html",
+		"/Users/nils/Projects/refinery-platform/refinery/templates/core/workflow.html",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/partials/attribute_list.html",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/partials/data_set_ui_mode_analyze.html",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/app/js/external_tool_status.js",
+		"/Users/nils/Projects/refinery-platform/deployment/Puppetfile",
+		"/Users/nils/Projects/refinery-platform/refinery/templates/core/project_edit.html",
+		"/Users/nils/Projects/refinery-platform/deployment/modules/stdlib/spec/unit/facter/pe_required_facts_spec.rb",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/parse-error-with-import.less",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/js/solr.js",
+		"/Users/nils/Projects/dan-parcoords/parcoords.html",
+		"/Users/nils/Projects/refinery-platform/refinery/core/models.py",
+		"/Users/nils/Projects/refinery-platform/refinery/file_store/models.py",
+		"/Users/nils/Documents/Reviewing/Journals/BMC Bioinformatics/2014/OBrien/review.txt",
+		"/Users/nils/Projects/refinery-platform/refinery/static/styles/less/variables.less",
+		"/Users/nils/Projects/refinery-platform/refinery/settings.py",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/js/controllers.js",
+		"/Users/nils/Projects/refinery-platform/refinery/core/management/commands/init_refinery.py",
+		"/Users/nils/Projects/Anton Experiments/nature_methods_barchart_pov_hash.json",
+		"/Users/nils/Projects/Anton Experiments/nature_methods_barchart_pov_matrix.json",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/app/js/node_mapping.js",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/bower_components/angular-ui-router/Gruntfile.js",
+		"/Users/nils/Projects/refinery-platform/refinery/core/middleware.py",
+		"/Users/nils/Projects/refinery-platform/deployment/manifests/default.pp",
+		"/Users/nils/Projects/refinery-platform/refinery/galaxy_connector/galaxy_workflow.py",
+		"/Users/nils/Projects/refinery-platform/refinery/core/tasks.py",
+		"/Users/nils/Projects/refinery-platform/requirements.txt",
+		"/Users/nils/Projects/refinery-platform/refinery/celerybeat.log",
+		"/Users/nils/Downloads/Homo_sapiens.GRCh37.74.gtf",
+		"/Users/nils/Downloads/hg19_refgene_ucsc.gtf",
+		"/Users/nils/Downloads/gene.genome.gaf",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/app/partials/data_set_ui_mode_analyze.html",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/app/vendor/angular-route/angular-route.js",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/package.json",
+		"/Users/nils/Projects/refinery-platform/refinery/templates/core/angular_test.html",
+		"/Users/nils/Projects/refinery-platform/refinery/static/js/refinery/solr/solr_document_count_view.js",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/partials/workflows.html",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/views/data_set_ui_mode_analyze.html",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/app/vendor/select2/select2.js",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/app/js/refinery.js",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/views/data_set_ui_mode_visualize.html",
+		"/Users/nils/Projects/refinery-platform/refinery/ui/src/views/data_set_ui_mode_browse.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\\\\",
+			"\\cro",
+			"involve",
+			"combination matrix",
+			"bibtex",
+			"bibtext",
+			"Answering",
+			"comment",
+			"None",
+			"Workflow",
+			"get_workflow_dictionary",
+			"get_workflow_dictionary()",
+			"loadFrom",
+			"$resouece",
+			"nodePairResou",
+			"self.dataSetMonito",
+			"self._getAnalysisLabel(",
+			"analysis",
+			"><",
+			"Node(",
+			"Node",
+			"speices",
+			"genome",
+			"species",
+			"effectAllowed",
+			"hasAttr",
+			"element",
+			"annotationQueryString",
+			"WorkflowDataInputMap",
+			"(\"/",
+			"countWorkflowSteps",
+			"new_workflow_steps",
+			"workflow_steps_num",
+			"solrIgvUrl",
+			"createSpeciesModal",
+			"Hard time limit ",
+			"Analysis",
+			"_facetSelection",
+			"analysis",
+			"diff_attr",
+			"query.serialize",
+			"alert",
+			" put ",
+			" put",
+			"put",
+			"alert(",
+			" alert(",
+			"Current selection updated!",
+			"Current selection updated! ",
+			"nodeSetMan",
+			"currentSelectionNodeSetName",
+			"currentSelectionNodeSetId",
+			"document-checkbox-select",
+			"class Node",
+			"Node",
+			"igv-multi-species",
+			"nrApp",
+			"update",
+			"$update",
+			"nodeRelationshipService.up",
+			"NodePair",
+			"NodeRelationship",
+			"NodeRelationship.u",
+			"^NodeRelationship",
+			"nodeRelationship.",
+			"NodeRelationshipResource",
+			"console.log",
+			"NodeRelationship",
+			"^NodeRelationship",
+			"val",
+			"reverse",
+			"invert",
+			"deleteMapping",
+			"updateDiff",
+			"initializeNodeDropzones =",
+			"initializeNodeDropzones(",
+			"initializeNode",
+			"Workflow",
+			"verbatim",
+			"ng-app",
+			"B0-4700",
+			"solrIgvUrl",
+			"temp_url",
+			"solr/igv",
+			"/solr/igv",
+			"solr_igv",
+			"solrService",
+			"\n    ",
+			"i",
+			"solrService",
+			"service",
+			"	<img style=\"height: {{ REFINERY_INNER_NAVBAR_HEIGHT }}px\"",
+			"0042 Bower and G",
+			"node_set_field",
+			"solr",
+			"prettify",
+			"markus",
+			"httpProv",
+			"httpPr",
+			"prettif",
+			"heresy",
+			"nodeRelationshipIndex",
+			"createNodeRelationsh",
+			"createNodeRelationsho[p",
+			"NodeRElation",
+			"$http",
+			"update",
+			"$watch",
+			"updateNodeDropzone",
+			"solr",
+			"template",
+			"trust",
+			".html",
+			"nodeMappingU",
+			"nodeMappingUuid",
+			"currentNodeMapping",
+			"nodeMappingSaved",
+			"nodemapp",
+			"nodePairSaved",
+			"$scope.nodePairSaved",
+			"http",
+			"X-CSRFToken",
+			"jshint",
+			"        console.log( element[0] );\n",
+			"DRAG",
+			"2",
+			"raven.contrib.django",
+			"kombu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"self._dataSetMonito",
+			"self.dataSetMonitor.getAnalysisLabel(",
+			"nodeRelationshipResource",
+			"nodeMappingSaved",
+			"$scope.nodeMappingSaved",
+			"<%= styles_dir %>",
+			"externalAssayUuid",
+			"externalStudyUuid",
+			"myExternalAssayUuidNew"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 249.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 100.0
+	},
+	"output.git-commit":
+	{
+		"height": 291.0
+	},
+	"output.git-init":
+	{
+		"height": 126.0
+	},
+	"output.git-pull":
+	{
+		"height": 114.0
+	},
+	"output.git-push":
+	{
+		"height": 216.0
+	},
+	"output.git-remote":
+	{
+		"height": 126.0
+	},
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"decodeuricomponent",
+				"refinery/ui/node_modules/grunt-contrib-less/node_modules/less/node_modules/request/node_modules/node-uuid/component.json"
+			],
+			[
+				"templates/",
+				"refinery/templates/base.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/FireBrowse/code/firebrowse.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 687.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
