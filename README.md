@@ -4,21 +4,19 @@ This is an experiment to replace a Wordpress-based website with a new site built
 
 #### Setup
 
-```xterm
+```shell
 ~ $ gem install jekyll
 ~ $ gem install jekyll-scholar
 ```
 
-
 #### Generate and/or Serve Site
 
-```xterm
+```shell
 ~ $ jekyll serve --watch
 ```
 
-
 #### View Site
 
-```xterm
-~ $ open _site/index.html
+```shell
+~ $ open http://0.0.0.0:4000/
 ```
