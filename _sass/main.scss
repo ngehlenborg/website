@@ -1,0 +1,13 @@
+@import 'bourbon/bourbon';
+@import 'base/base';
+@import 'neat/neat';
+
+.project {
+  @include outer-container;
+  .project-header { @include span-columns(3); }
+  .project-content { @include span-columns(9); @include omega(); }
+  .project-meta { @include span-columns(12); }
+}
+
+
+
